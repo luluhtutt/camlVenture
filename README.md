@@ -1,5 +1,5 @@
 ## Welcome to Camlventure!
-(repository migrated from private Cornell repo)
+> Notice: Repository migrated from private Cornell repo
 
 The Snarly Hackers are taking over the world!
 Rumor has it that their leader, Snarly Hacker Clarkson,
