@@ -1,0 +1,5 @@
+(executable
+ (name main)
+ (libraries camlventure ounit2)
+ (instrumentation
+  (backend bisect_ppx)))

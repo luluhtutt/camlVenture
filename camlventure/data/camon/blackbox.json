@@ -1,0 +1,17 @@
+{
+  "name": "blackbox test",
+  "hp": 50,
+  "ascii": "blackbox.txt",
+  "moves": [
+    {
+      "attack_id": "unit test",
+      "damage": 40,
+      "accuracy": 100
+    },
+    {
+      "attack_id": "qcheck",
+      "damage": 60,
+      "accuracy": 90
+    }
+  ]
+}

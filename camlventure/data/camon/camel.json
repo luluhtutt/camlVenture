@@ -1,0 +1,27 @@
+{
+  "name": "camel",
+  "hp": 111,
+  "ascii": "camel.txt",
+  "moves": [
+    {
+      "attack_id": "syntaxle",
+      "damage": 40,
+      "accuracy": 100
+    },
+    {
+      "attack_id": "polymorph",
+      "damage": 65,
+      "accuracy": 100
+    },
+    {
+      "attack_id": "click",
+      "damage": 70,
+      "accuracy": 70
+    },
+    {
+      "attack_id": "dune build",
+      "damage": 70,
+      "accuracy": 100
+    }
+  ]
+}

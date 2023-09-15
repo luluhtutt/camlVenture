@@ -1,0 +1,12 @@
+{
+  "name": "unit3",
+  "hp": 5,
+  "ascii": "",
+  "moves": [
+    {
+      "attack_id": "chip",
+      "damage": 1,
+      "accuracy": 100
+    }
+  ]
+}

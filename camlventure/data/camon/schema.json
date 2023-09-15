@@ -1,0 +1,42 @@
+{
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "hp": {
+      "type": "integer"
+    },
+    "ascii": {
+      "type": "string"
+    },
+    "moves": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "attack_id": {
+            "type": "string"
+          },
+          "damage": {
+            "type": "integer"
+          },
+          "accuracy": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "attack_id",
+          "damage",
+          "accuracy"
+        ]
+      }
+    }
+  },
+  "required": [
+    "name",
+    "hp",
+    "moves",
+    "ascii"
+  ]
+}

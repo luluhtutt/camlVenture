@@ -1,0 +1,22 @@
+{
+  "name": "heron",
+  "hp": 211,
+  "ascii": "heron.txt",
+  "moves": [
+    {
+      "attack_id": "compile",
+      "damage": 70,
+      "accuracy": 80
+    },
+    {
+      "attack_id": "polymorph",
+      "damage": 65,
+      "accuracy": 100
+    },
+    {
+      "attack_id": "upgrade",
+      "damage": 90,
+      "accuracy": 20
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "ocaml",
+  "hp": 311,
+  "ascii": "ocaml.txt",
+  "moves": [
+    {
+      "attack_id": "unit test",
+      "damage": 75,
+      "accuracy": 100
+    },
+    {
+      "attack_id": "induction",
+      "damage": 90,
+      "accuracy": 70
+    },
+    {
+      "attack_id": "pattern match",
+      "damage": 50,
+      "accuracy": 100
+    },
+    {
+      "attack_id": "hump day",
+      "damage": 150,
+      "accuracy": 1
+    }
+  ]
+}

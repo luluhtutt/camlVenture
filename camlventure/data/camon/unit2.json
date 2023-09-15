@@ -1,0 +1,12 @@
+{
+  "name": "unit2",
+  "hp": 50,
+  "ascii": "promise.txt",
+  "moves": [
+    {
+      "attack_id": "ko",
+      "damage": 100000,
+      "accuracy": 100
+    }
+  ]
+}

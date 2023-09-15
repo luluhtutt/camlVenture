@@ -1,0 +1,22 @@
+{
+  "name": "Three Humped Camel",
+  "hp": 311,
+  "ascii": "ocaml.txt",
+  "moves": [
+    {
+      "attack_id": "Unit Test",
+      "damage": 75,
+      "accuracy": 100
+    },
+    {
+      "attack_id": "induction",
+      "damage": 90,
+      "accuracy": 70
+    },
+    {
+      "attack_id": "hump day",
+      "damage": 150,
+      "accuracy": 1
+    }
+  ]
+}

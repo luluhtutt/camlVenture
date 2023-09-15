@@ -1,0 +1,22 @@
+{
+  "name": "red black tree",
+  "hp": 40,
+  "ascii": "rbtree.txt",
+  "moves": [
+    {
+      "attack_id": "insert",
+      "damage": 50,
+      "accuracy": 45
+    },
+    {
+      "attack_id": "balance",
+      "damage": 65,
+      "accuracy": 50
+    },
+    {
+      "attack_id": "rep ok",
+      "damage": 90,
+      "accuracy": 20
+    }
+  ]
+}

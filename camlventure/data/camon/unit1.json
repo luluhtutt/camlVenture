@@ -1,0 +1,17 @@
+{
+  "name": "unit1",
+  "hp": 100,
+  "ascii": "monad.txt",
+  "moves": [
+    {
+      "attack_id": "hit",
+      "damage": 10,
+      "accuracy": 100
+    },
+    {
+      "attack_id": "miss",
+      "damage": 10,
+      "accuracy": 0
+    }
+  ]
+}

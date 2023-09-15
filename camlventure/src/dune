@@ -1,0 +1,6 @@
+(library
+ (name camlventure)
+ (public_name camlventure)
+ (libraries yojson ANSITerminal notty notty.unix)
+ (instrumentation
+  (backend bisect_ppx)))

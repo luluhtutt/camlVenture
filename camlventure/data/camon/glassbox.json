@@ -1,0 +1,17 @@
+{
+  "name": "glassbox test",
+  "hp": 50,
+  "ascii": "glassbox.txt",
+  "moves": [
+    {
+      "attack_id": "unit test",
+      "damage": 40,
+      "accuracy": 100
+    },
+    {
+      "attack_id": "qcheck",
+      "damage": 60,
+      "accuracy": 90
+    }
+  ]
+}

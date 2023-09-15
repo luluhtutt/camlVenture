@@ -1,0 +1,23 @@
+{
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "win_quote": {
+      "type": "string"
+    },
+    "lose_quote": {
+      "type": "string"
+    },
+    "ascii": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "title",
+    "win_quote",
+    "lose_quote",
+    "ascii"
+  ]
+}

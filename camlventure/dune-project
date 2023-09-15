@@ -1,0 +1,26 @@
+(lang dune 3.4)
+
+(name camlventure)
+
+(generate_opam_files true)
+
+(source
+ (github lh543/cs3110-final))
+
+(authors "Emily Penna (ep439), Lulu Htutt (lh543), Joanna Lin (yl797)")
+
+(maintainers "Emily Penna (ep439), Lulu Htutt (lh543), Joanna Lin (yl797)")
+
+(license LICENSE)
+
+(documentation https://url/to/documentation)
+
+(package
+ (name camlventure)
+ (synopsis "A short synopsis")
+ (description "A longer description")
+ (depends ocaml dune)
+ (tags
+  (topics "to describe" your project)))
+
+; See the complete stanza docs at https://dune.readthedocs.io/en/stable/dune-files.html#dune-project

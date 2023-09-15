@@ -1,0 +1,22 @@
+{
+  "name": "lambda",
+  "hp": 20,
+  "ascii": "lambda.txt",
+  "moves": [
+    {
+      "attack_id": "fun",
+      "damage": 20,
+      "accuracy": 40
+    },
+    {
+      "attack_id": "fold left",
+      "damage": 49,
+      "accuracy": 50
+    },
+    {
+      "attack_id": "syntactic sugar",
+      "damage": 99,
+      "accuracy": 10
+    }
+  ]
+}

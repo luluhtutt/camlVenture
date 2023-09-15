@@ -1,0 +1,22 @@
+{
+  "name": "promise",
+  "hp": 70,
+  "ascii": "promise.txt",
+  "moves": [
+    {
+      "attack_id": "resolve",
+      "damage": 40,
+      "accuracy": 100
+    },
+    {
+      "attack_id": "reject",
+      "damage": 40,
+      "accuracy": 100
+    },
+    {
+      "attack_id": "return",
+      "damage": 100,
+      "accuracy": 40
+    }
+  ]
+}

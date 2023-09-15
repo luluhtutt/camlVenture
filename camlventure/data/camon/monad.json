@@ -1,0 +1,27 @@
+{
+  "name": "monad",
+  "hp": 50,
+  "ascii": "monad.txt",
+  "moves": [
+    {
+      "attack_id": "wrap",
+      "damage": 49,
+      "accuracy": 60
+    },
+    {
+      "attack_id": "return",
+      "damage": 93,
+      "accuracy": 11
+    },
+    {
+      "attack_id": "bind",
+      "damage": 12,
+      "accuracy": 90
+    },
+    {
+      "attack_id": "upgrade",
+      "damage": 90,
+      "accuracy": 20
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+---
+# Members of your group.
+group:
+  - name: Emily Penna
+    netid: ep439
+  - name: Lulu Htutt
+    netid: lh543
+  - name: Joanna Lin
+    netid: yl797
+# Your PM.
+pm:
+  name: Rafael Chaves
+  netid: rvc29
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "camlVenture"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/lh543/cs3110-final"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Explore the world of camlVenture with your partner camon!
+  Face off against the Snarliest hacker in existence!
+
+  Can you overcome your fears and obtain peace, love, and 3110?!
+  Find out in camlVenture, a terminal based adventure battle game.

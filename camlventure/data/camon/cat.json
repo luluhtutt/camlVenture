@@ -1,0 +1,32 @@
+{
+  "name": "cat",
+  "hp": 12,
+  "ascii": "cat.txt",
+  "moves": [
+    {
+      "attack_id": "push",
+      "damage": 30,
+      "accuracy": 43
+    },
+    {
+      "attack_id": "pull",
+      "damage": 90,
+      "accuracy": 20
+    },
+    {
+      "attack_id": "commit",
+      "damage": 12,
+      "accuracy": 92
+    },
+    {
+      "attack_id": "compile",
+      "damage": 12,
+      "accuracy": 42
+    },
+    {
+      "attack_id": "dune build",
+      "damage": 70,
+      "accuracy": 22
+    }
+  ]
+}

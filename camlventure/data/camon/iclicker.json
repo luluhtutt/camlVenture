@@ -1,0 +1,27 @@
+{
+  "name": "iclicker",
+  "hp": 100,
+  "ascii": "iclicker.txt",
+  "moves": [
+    {
+      "attack_id": "click",
+      "damage": 70,
+      "accuracy": 70
+    },
+    {
+      "attack_id": "all of the above",
+      "damage": 80,
+      "accuracy": 60
+    },
+    {
+      "attack_id": "none of the above",
+      "damage": 10,
+      "accuracy": 90
+    },
+    {
+      "attack_id": "e: idk",
+      "damage": 5,
+      "accuracy": 100
+    }
+  ]
+}

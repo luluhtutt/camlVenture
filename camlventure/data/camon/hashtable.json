@@ -1,0 +1,27 @@
+{
+  "name": "hash table",
+  "hp": 50,
+  "ascii": "hashtable.txt",
+  "moves": [
+    {
+      "attack_id": "hash",
+      "damage": 30,
+      "accuracy": 60
+    },
+    {
+      "attack_id": "amortize",
+      "damage": 80,
+      "accuracy": 20
+    },
+    {
+      "attack_id": "chain",
+      "damage": 30,
+      "accuracy": 20
+    },
+    {
+      "attack_id": "probe",
+      "damage": 60,
+      "accuracy": 12
+    }
+  ]
+}

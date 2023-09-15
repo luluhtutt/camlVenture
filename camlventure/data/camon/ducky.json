@@ -1,0 +1,27 @@
+{
+  "name": "ducky",
+  "hp": 111,
+  "ascii": "ducky.txt",
+  "moves": [
+    {
+      "attack_id": "debug",
+      "damage": 70,
+      "accuracy": 80
+    },
+    {
+      "attack_id": "uop",
+      "damage": 30,
+      "accuracy": 100
+    },
+    {
+      "attack_id": "failwith",
+      "damage": 80,
+      "accuracy": 80
+    },
+    {
+      "attack_id": "syntactic sugar",
+      "damage": 99,
+      "accuracy": 10
+    }
+  ]
+}

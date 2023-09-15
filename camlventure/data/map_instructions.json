@@ -1,0 +1,20 @@
+{
+  "map": [
+    "  How to Play: ",
+    "  ",
+    "  Use the arrow keys on your keyboard to move around.",
+    "  ",
+    "  Your player sprite is represented by the emote 👾.",
+    "  ",
+    "  Trees (🌴) and cacti (🌵) are background, and won't do anything.",
+    "  ",
+    "  Eggs (🥚) represent wild camon, and if you encounter one, you may run.",
+    "  ",
+    "  Snarly Hacklings (🤖) and Snarly Apprentice Ryan (😡)",
+    "  are enemy trainers that you cannot run from.",
+    "  ",
+    "  Snarly Hacker Clarkson (😈) is the final boss.",
+    "  ",
+    "  Navigate to these enemies to battle them!"
+  ]
+}

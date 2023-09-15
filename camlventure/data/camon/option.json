@@ -1,0 +1,27 @@
+{
+  "name": "option",
+  "hp": 60,
+  "ascii": "option.txt",
+  "moves": [
+    {
+      "attack_id": "some",
+      "damage": 70,
+      "accuracy": 20
+    },
+    {
+      "attack_id": "none",
+      "damage": 30,
+      "accuracy": 80
+    },
+    {
+      "attack_id": "pattern match",
+      "damage": 50,
+      "accuracy": 100
+    },
+    {
+      "attack_id": "failwith",
+      "damage": 80,
+      "accuracy": 80
+    }
+  ]
+}

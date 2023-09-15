@@ -1,0 +1,4 @@
+(executable
+ (public_name camlventure)
+ (name main)
+ (libraries camlventure notty notty.unix))
