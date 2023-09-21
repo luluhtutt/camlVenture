@@ -11,9 +11,9 @@ You must stop him and his hacklings before it is too late!!
  
 ## Snarly Hacklings 🐫
 ### Team members: 
->* Lulu Htutt (lh543)
->* Joanna Lin (yl797)
->* Emily Penna (ep439)
+>* [Lulu Htutt (lh543)](https://github.com/luluhtutt)
+>* [Joanna Lin (yl797)](https://github.com/Joanna-Lin-JL)
+>* [Emily Penna (ep439)](https://github.com/emily-penna)
 
 
 ## Installation and Building Instructions
