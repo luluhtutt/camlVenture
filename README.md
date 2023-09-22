@@ -21,7 +21,7 @@ You must stop him and his hacklings before it is too late!!
 ### Installation : [INSTALL.md](camlventure/INSTALL.md)
 
 ### How to Play
-Use the arrow keys on your keyboard to move around. Your player sprite is represented by the emote 👾. Trees (🌴) and cacti (🌵) are background, and won't do anything. Eggs (🥚) represent wild camon, and if you encounter one, you may run from the battle (meaning that you don't have to fight, returning you to the map). Snarly Hacklings (🤖) and Snarly Apprentice Ryan (😡) are enemy trainers that you cannot run from - once encountered, you must fight. Snarly Hacker Clarkson (😈) is the final boss. Navigate to these enemies on the map to battle them!
+In your terminal, use the arrow keys on your keyboard to move around. Your player sprite is represented by the emote 👾. Trees (🌴) and cacti (🌵) are background, and won't do anything. Eggs (🥚) represent wild camon, and if you encounter one, you may run from the battle (meaning that you don't have to fight, returning you to the map). Snarly Hacklings (🤖) and Snarly Apprentice Ryan (😡) are enemy trainers that you cannot run from - once encountered, you must fight. Snarly Hacker Clarkson (😈) is the final boss. Navigate to these enemies on the map to battle them!
 
 #### Windows addtional instructions:
 
